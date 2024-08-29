@@ -19,7 +19,7 @@ O principal objetivo deste projeto é fornecer uma prática de como implementar 
 ## Projeto
 
 Nome: **Conta Bancária**  
-Desenvolvedor: **Pablo**  
+Desenvolvedor: **Guilherme Barbosa Amorim**  
 Senha Inicial: **123**  
 CPF: **123.456.789-01**  
 RG: **123.456.789-0**  

@@ -1,8 +1,8 @@
-# Conta Bancária
+# FLOWBANK
 
 ## Sobre o Projeto
 
-O projeto **Conta Bancária** é uma simulação de um sistema bancário básico que permite ao usuário realizar operações financeiras em uma conta bancária virtual. Este projeto tem como objetivo fornecer uma interface interativa para o gerenciamento de uma conta bancária, oferecendo funcionalidades essenciais para o controle financeiro pessoal.
+O projeto **FLOWBANK** é uma simulação de um sistema bancário básico que permite ao usuário realizar operações financeiras em uma conta bancária virtual. Este projeto tem como objetivo fornecer uma interface interativa para o gerenciamento de uma conta bancária, oferecendo funcionalidades essenciais para o controle financeiro pessoal.
 
 ### Objetivo
 

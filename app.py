@@ -175,6 +175,7 @@ class ContaBancaria:
     print(f'Volte logo {self.titular}')
 
   def BoasVindas(self):
+    print('\n|============== FLOWBANK ===================|')
     print('\n|----SEJA BEM VINDO A SUA CONTA BANCARIA!---|')
     print('|-------------------------------------------|')
     print('|-------PARA REALIZAR SAQUES DIGITE (1)-----|')
@@ -182,6 +183,7 @@ class ContaBancaria:
     print('|PARA REALIZAR COMPRAS NO CREDITO DIGITE (3)|')
     print('|PARA VISUALIZAR EXTRATO DA CONTA DIGITE (4)|')
     print('|---------PARA SAIR DIGITE (5)--------------|')
+    print('|===========================================|')
 
     opcao = int(input('\nDigite qual opção deseja realizar: '))
 
